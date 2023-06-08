@@ -1,6 +1,6 @@
-# Identify-Community-MarvelUniverse
+# Identify-Community-MarvelUniverse-SocialNetwork
 
-###Analisis Jejaring Sosial Marvel Universe menggunakan Metode Louvain untuk Mengidentifikasi Komunitas
+Analisis Jejaring Sosial Marvel Universe menggunakan Metode Louvain untuk Mengidentifikasi Komunitas
 Using social network analysis (SNA) to find out the structure and community in the Marvel Universe social network. 
 The algorithm method used is Louvain.
 
